@@ -60,7 +60,7 @@ You can adjust TTL and other cache settings in the source code. More advanced co
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/chrisjchandler/cacheman/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/chrisjchandler/cacheman/blob/main/LICENSE.TXT) file for details.
 
 ## Contributing
 
