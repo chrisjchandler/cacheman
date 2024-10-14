@@ -1,0 +1,11 @@
+/home/cchandler/Cacheman/target/release/deps/libpowerfmt-aefa313c317b6520.rmeta: /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/lib.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/buf.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/ext.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display_impls.rs
+
+/home/cchandler/Cacheman/target/release/deps/libpowerfmt-aefa313c317b6520.rlib: /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/lib.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/buf.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/ext.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display_impls.rs
+
+/home/cchandler/Cacheman/target/release/deps/powerfmt-aefa313c317b6520.d: /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/lib.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/buf.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/ext.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display.rs /home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display_impls.rs
+
+/home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/lib.rs:
+/home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/buf.rs:
+/home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/ext.rs:
+/home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display.rs:
+/home/cchandler/.cargo/registry/src/index.crates.io-6f17d22bba15001f/powerfmt-0.2.0/src/smart_display_impls.rs:

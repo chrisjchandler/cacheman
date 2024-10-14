@@ -1,0 +1,5 @@
+[workspace]
+resolver = "2"  # Specifies using the 2021 resolver
+members = [
+    "cacheman",  # Make sure this matches the folder name of your package
+]
